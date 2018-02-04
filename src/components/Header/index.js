@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          React Native Seoul
         </Link>
       </h1>
     </div>
